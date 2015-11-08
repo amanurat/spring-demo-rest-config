@@ -1,3 +1,4 @@
 rest.feature1: false
 rest.feature2: false
 first-number: 1
+bar: foo
